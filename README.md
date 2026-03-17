@@ -7,25 +7,25 @@ A fun and interactive memory-based game built using HTML, CSS, and JavaScript. T
 
 # 📌 Features
 
-##🎯 Interactive gameplay with smooth UI
+## 🎯 Interactive gameplay with smooth UI
 
-##🧠 Improves memory and focus
+## 🧠 Improves memory and focus
 
-##🔁 Increasing difficulty with each level
+## 🔁 Increasing difficulty with each level
 
-##❌ Game over detection with restart option
+## ❌ Game over detection with restart option
 
-##⚡ Fast and responsive design
+## ⚡ Fast and responsive design
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-##HTML5 – Structure of the game
+## HTML5 – Structure of the game
 
-##CSS3 – Styling and animations
+## CSS3 – Styling and animations
 
-##JavaScript (Vanilla JS) – Game logic and interactivity
+## JavaScript (Vanilla JS) – Game logic and interactivity
 
-#🎮 How to Play
+# 🎮 How to Play
 
 Press any key to start the game
 
@@ -39,25 +39,25 @@ If you click the wrong button → Game Over
 
 Try to beat your highest score 🚀
 
-#📂 Project Structure
+# 📂 Project Structure
 📦 Simon-Says-Game
  ┣ 📜 index.html
  ┣ 📜 style.css
  ┣ 📜 script.js
  ┗ 📜 README.md
-#🚀 Installation & Setup
+# 🚀 Installation & Setup
 
-##Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/Aditya-Kumar2710/Simon-Says-Game.git
 
-##Navigate to the project folder:
+## Navigate to the project folder:
 
 cd Simon-Says-Game
 
-##Open index.html in your browser
+## Open index.html in your browser
 
-#💡 Game Logic (Concept)
+# 💡 Game Logic (Concept)
 
 The game works on a simple idea:
 
@@ -69,4 +69,4 @@ User input is checked step-by-step
 
 If input mismatches → game resets
 
-##This type of game is widely used to test pattern recognition and memory skills
+## This type of game is widely used to test pattern recognition and memory skills
