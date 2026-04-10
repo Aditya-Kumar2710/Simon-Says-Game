@@ -3,7 +3,7 @@
 A fun and interactive memory-based game built using HTML, CSS, and JavaScript. Test your memory skills by repeating the sequence of colors correctly as the game progresses!
 
 # 🌐 Live Demo:
-👉 https://simonsaysbyadi.netlify.app/
+👉 https://simonsaysgamebyadii.netlify.app/
 
 # 📌 Features
 
