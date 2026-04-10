@@ -5,7 +5,7 @@ let btns = ["btn1", "btn2", "btn3", "btn4"];
 let started = false;
 let btnS = document.querySelectorAll(".btn");
 let lvl = 0;
-let highestScore = 0 ;
+let highestScore = localStorage.getItem("highScore") || 0;
 let userTurn = false;
 let start = document.querySelector(".start");
 let restart = document.querySelector(".restart");
@@ -122,7 +122,8 @@ function checkAns(idx){
         
     }
     else{
-        highestScore = Math.max(highestScore,lvl-1);
+    highestScore = Math.max(highestScore, lvl - 1);
+    localStorage.setItem("highScore", highestScore);
         userTurn = false;
         sound.play();
         reset();
